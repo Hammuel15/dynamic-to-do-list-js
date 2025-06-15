@@ -10,5 +10,6 @@ This is a simple To-Do List application built with HTML, CSS, and JavaScript. It
 - Delete tasks
 - Mark tasks as completed
 - Persistent data using local storage
+- 
 
 
