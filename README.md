@@ -21,27 +21,20 @@ The app utilizes advanced DOM manipulation techniques and JavaScript event handl
 
 ---
 
-📁 File Structure
+## 📁 File Structure
 dynamic-to-do-list-js/
 ├── index.html       # HTML structure of the app
 ├── styles.css       # Styling for the app interface
 └── script.js        # Logic for adding and removing tasks
 
-🧪 Testing Instructions
-Open index.html in a browser.
 
-Add tasks using the input box and "Add Task" button or press Enter.
 
-Click "Remove" next to any task to delete it.
+## 🧑‍💻 Technologies Used
 
-Test responsiveness and interactions.
+HTML5 – Structure
+CSS3 – Styling and layout
+Vanilla JavaScript – DOM manipulation & Local Storage API
 
-🧑‍💻 Technologies Used
-HTML5
-
-CSS3
-
-Vanilla JavaScript (ES6)
 
 📌 Repository
 GitHub Repo: dynamic-to-do-list-js
