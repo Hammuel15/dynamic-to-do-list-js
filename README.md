@@ -36,7 +36,5 @@ CSS3 – Styling and layout
 Vanilla JavaScript – DOM manipulation & Local Storage API
 
 
-📌 Repository
-GitHub Repo: dynamic-to-do-list-js
 
 
